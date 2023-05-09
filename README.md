@@ -2,7 +2,7 @@
 # Call Center Dashboard
 
 ## Introduction
-This dashboard provides a real-time overview of the performance of our call center operations. It is designed to help call center managers and supervisors monitor key metrics and identify areas for improvement. This Dashboard is made in microsoft Excel and a fake data been used.
+This dashboard provides a real-time overview of the performance of a call center operations. It is designed to help call center managers and supervisors monitor key metrics and identify areas for improvement. This Dashboard is made in microsoft Excel and a fake data been used.
 
 ## Key Metrics
 The dashboard displays the following key metrics:
